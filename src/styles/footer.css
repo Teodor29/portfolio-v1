@@ -1,0 +1,16 @@
+.footer {
+    padding-bottom: 6rem;
+}
+.footer h2 {
+    margin-bottom: 1rem;
+}
+.footer a {
+    color: inherit;
+    display: flex;
+    align-items: center;
+}
+.footer .links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}/*# sourceMappingURL=footer.css.map */

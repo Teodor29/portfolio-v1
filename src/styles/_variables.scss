@@ -1,0 +1,35 @@
+@use "sass:color";
+
+// colors
+$color-dark: #0A0A0A;
+$color-dark2: #1A1A1A;
+$color-dark3: #2A2A2A;
+$color-dark4: #3A3A3A;
+$color-dark5: #4A4A4A;
+$color-dark6: #5A5A5A;
+
+// $color-accent: #c5d8a5;
+// $color-accent2: #9FC462;
+// $color-accent3: #759D34;
+// $color-accent4: #507614;
+// $color-accent5: #314e004f;
+
+//$color-accent-background: #301b00;
+//$color-accent-text: #ffb042;
+//$color-accent-hover: #FF9C12;
+$color-accent-background: #1e2319;
+$color-accent-text: #b8de93;
+$color-accent-hover: #83b552;
+
+// text
+$text-primary: #C0C0C0;    
+$text-secondary: #C0C0C0;
+$text-heading: #f0f0f0;
+$text-link: #83b552;
+
+// background
+$background: $color-dark;
+$background2: $color-dark2;
+$background3: $color-dark3;
+$background4: $color-dark4;
+$background5: $color-dark5;

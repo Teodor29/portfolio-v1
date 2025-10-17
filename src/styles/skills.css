@@ -1,0 +1,18 @@
+.skills {
+    padding-bottom: 4rem;
+}
+.skills ul {
+    display: flex;
+    gap: 1rem;
+    padding-left: 0;
+    list-style: none;
+    flex-wrap: wrap;
+}
+.skills li {
+    font-weight: 500;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    background: #1e2319;
+    border-radius: 2rem;
+    color: #b8de93;
+}/*# sourceMappingURL=skills.css.map */

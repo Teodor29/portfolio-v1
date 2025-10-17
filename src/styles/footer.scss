@@ -1,0 +1,21 @@
+@use "variables";
+
+.footer {
+    padding-bottom: 6rem;
+
+    h2 {
+        margin-bottom: 1rem;
+    }
+
+    a {
+        color: inherit;
+        display: flex;
+        align-items: center;
+    }
+
+    .links {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
