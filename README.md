@@ -1,16 +1,22 @@
 # My Portfolio v1
 
-This is **version 1** of my personal portfolio, built with **React** and styled with **SCSS**.  
+**Latest version:** [https://teodor29.github.io/](https://teodor29.github.io/)
+
+This is **version 1** of my portfolio, built with **React** and styled with **SCSS**.  
 It showcases my skills, selected projects, and ways to contact me. This is the archived version of my portfolio.
 
-**Live demo:** [https://teodor29.github.io/portfolio-v1/](https://teodor29.github.io/portfolio-v1/)
+**V1 Live demo:** [https://teodor29.github.io/portfolio-v1/](https://teodor29.github.io/portfolio-v1/)
+
+---
 
 ## Getting Started
-To run the project locally:
+
+To run this version locally:
 
 1. Clone the repository:
-```
+```bash
 git clone https://github.com/Teodor29/portfolio-v1.git
+
 ```
 2. Navigate to the project folder:
 ```
